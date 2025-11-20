@@ -1,0 +1,5 @@
+Explain 'add':
+[{'type': 'function', 'file': 'tests/example_repo\\simple_functions.py', 'name': 'add', 'args': ['a', 'b'], 'docstring': 'Return the sum of two numbers.'}, {'type': 'function', 'file': 'tests/example_repo\\utils.py', 'name': 'add', 'args': ['a', 'b'], 'docstring': None}]
+
+Explain 'Calculator':
+[{'type': 'class', 'file': 'tests/example_repo\\sample_class.py', 'name': 'Calculator', 'docstring': 'A simple calculator class.'}]
